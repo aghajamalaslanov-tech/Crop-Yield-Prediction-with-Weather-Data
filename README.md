@@ -63,6 +63,8 @@ Streamlit Dashboard
 All insights and predictions are presented in an interactive Streamlit dashboard.
 
 Users can filter by country or crop type to see historical trends and future yield forecasts.
+![Uploading image.png…]()
+
 
 📊 Output
 Country-level yield trends
