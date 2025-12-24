@@ -74,6 +74,7 @@ Weather impact analysis
 Future crop yield predictions under different climate scenarios
 
 Team Members
+
 @Gülgün Salamzadə
 
 @Jalə Hüseynova
