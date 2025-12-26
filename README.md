@@ -78,4 +78,4 @@ Team Members
 
 [Gülgün Salamzadə](https://github.com/GulgunSalamzada)
 
-@Jalə Hüseynova
+[Jalə Hüseynova](https://github.com/JalaHuseynova)
