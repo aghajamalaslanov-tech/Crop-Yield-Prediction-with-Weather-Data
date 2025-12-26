@@ -76,6 +76,6 @@ Future crop yield predictions under different climate scenarios
 
 Team Members
 
-@Gülgün Salamzadə
+[Gülgün Salamzadə](https://github.com/GulgunSalamzada)
 
 @Jalə Hüseynova
